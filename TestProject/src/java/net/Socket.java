@@ -13,7 +13,7 @@ public class Socket {
 	}
 	
 	public void doesNothing() {
-		
+		System.out.println("nothing");
 	}
 
 }
